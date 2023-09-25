@@ -1,0 +1,15 @@
+C:\Users\serej\Desktop\С#2\domashneezadanie1\bin\Debug\net6.0\domashneezadanie1.exe
+C:\Users\serej\Desktop\С#2\domashneezadanie1\bin\Debug\net6.0\domashneezadanie1.deps.json
+C:\Users\serej\Desktop\С#2\domashneezadanie1\bin\Debug\net6.0\domashneezadanie1.runtimeconfig.json
+C:\Users\serej\Desktop\С#2\domashneezadanie1\bin\Debug\net6.0\domashneezadanie1.dll
+C:\Users\serej\Desktop\С#2\domashneezadanie1\bin\Debug\net6.0\domashneezadanie1.pdb
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.AssemblyInfoInputs.cache
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.AssemblyInfo.cs
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.dll
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\refint\domashneezadanie1.dll
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.pdb
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\domashneezadanie1.genruntimeconfig.cache
+C:\Users\serej\Desktop\С#2\domashneezadanie1\obj\Debug\net6.0\ref\domashneezadanie1.dll
